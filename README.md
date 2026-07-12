@@ -27,7 +27,7 @@ https://spam-email-detector-x5sy.onrender.com
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Spam-Email-detector.git
+git clone https://github.com/pushpapamulaiahgari/Spam-Email-detector.git
 cd Spam-Email-detector
 
 # Install dependencies
